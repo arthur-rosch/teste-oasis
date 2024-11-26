@@ -44,6 +44,7 @@ Caso prefira usar a URL local, defina:
 
 `NEXT_PUBLIC_API_URL="http://localhost:4000/graphql" `
 
+`
 
 ### 4. Execute o Projeto
 
