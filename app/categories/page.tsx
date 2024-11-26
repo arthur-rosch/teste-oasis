@@ -19,6 +19,7 @@ const categories = [
   { id: "React", name: "React JS", icon: react, description: "Crie interfaces dinâmicas e escaláveis." },
 ];
 
+
 export default function CategoriesPage() {
   return (
     <section className="mt-4 py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
