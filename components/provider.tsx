@@ -1,3 +1,5 @@
+'use client'
+
 import { client } from '@/lib/apollo';
 import { ApolloProvider } from '@apollo/client';
 import { Toaster } from 'sonner';
