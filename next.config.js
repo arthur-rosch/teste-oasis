@@ -3,7 +3,6 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  generateRobotsTxt: true,
   images: { unoptimized: true },
 };
 
